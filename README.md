@@ -55,12 +55,3 @@ Tốc độ của mỗi động cơ được điều chỉnh theo công thức:
 * $V_{left} = V_{base} + Output$
 * $V_{right} = V_{base} - Output$
 
----
-
-## 🤝 LIÊN HỆ & THỰC HIỆN
-* **Thành viên:** [Tên của bạn]
-* **Đơn vị:** Mechatronics - UET (VNU)
-* **Ngày hoàn thành:** March 2026
-
----
-*Lưu ý: Dự án đang trong quá trình tối ưu hóa phần cứng để đạt tốc độ cao hơn.*
